@@ -1,0 +1,5 @@
+snippets:
+  - name: windows directory
+    keyword: windir
+    snippet: /mnt/c/Users/$WIN_USERNAME/
+    global: true

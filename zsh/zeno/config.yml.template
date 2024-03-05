@@ -1,0 +1,6 @@
+snippets:
+  - name: windows directory
+    keyword: windir
+    snippet: echo "/mnt/c/Users/$WIN_USERNAME/"
+    global: true
+    evaluate: true
